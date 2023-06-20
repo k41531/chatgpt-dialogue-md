@@ -1,5 +1,5 @@
 # ChatGPT-Share → Markdown
-これは指定されたChatGPTをShareした際に作成されるURLからデータを抽出し、Markdownファイルとして保存するPythonスクリプトです。
+ChatGPTをShareした際に作成されるURLからデータを抽出し、Markdownファイルとして保存するPythonスクリプトです。
 `requests`、`BeautifulSoup`、`markdownify`、`os`、`re`、`argparse`、および`tkinter`ライブラリを使用しています。
 
 ## 前提条件
